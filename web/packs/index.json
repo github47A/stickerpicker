@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "pack1.json"
+  ],
+  "homeserver_url": "https://theisland.cx"
+}
